@@ -29,6 +29,7 @@ For example, if you have files in your project called *frenzy_background_music.o
         drop_targets_complete: small_explosion_one
 
 ```
+Supported audio formats for direct file playback: 16-bit .wav, .ogg, and .flac
 
 ### MPFSound Resource
 
